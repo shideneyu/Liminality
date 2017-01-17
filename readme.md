@@ -1,7 +1,7 @@
 # Liminality
 
-__Liminality__ is a Linux GDM/login manager theme that features for the first time of Human history, a (for MDM themes)   a video background.
-Due to the embedded version of *webkit* that does know allow us to use `<video>` tags, I fragmented my video into numerous `png` chunks and looped them to produce this result.
+__Liminality__ is a Linux MDM login manager theme that features for the first time of Human history (for MDM themes), a video as a moving background.
+How did I manage that ? As you might know, the embedded version of *webkit* used in MDM does know allow us to use `<video>` tags, so I fragmented my video into numerous `png` chunks and looped them to produce this result.
 
 ## Installation
 
