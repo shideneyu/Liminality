@@ -8,7 +8,7 @@ How did I manage that ? As you might know, the embedded version of *webkit* used
 Tarball this repo,  run `mdmsetup`, and load it through the gui client.
 
 ### Video Tutorial ###
-[![ownlan_video_preview](http://image.noelshack.com/fichiers/2017/03/1484691003-liminalityscreenshot.png)](https://www.youtube.com/watch?v=665LZE02VFw "Ownlan video preview")
+[![liminality_video_preview](http://image.noelshack.com/fichiers/2017/03/1484691003-liminalityscreenshot.png)](https://www.youtube.com/watch?v=665LZE02VFw "Liminality video preview")
 ## Contributing
 
 1. Fork it ( https://github.com/shideneyu/liminality/fork )
@@ -27,5 +27,5 @@ Any issue ? Open a [ticket](https://github.com/shideneyu/liminality/issues) !
 
 Copyright (c) 2017 Sidney Sissaoui
 
-Released under the MIT license. See [LICENSE.md](https://github.com/shideneyu/ownlan/blob/master/LICENSE.md) for more details.
+Released under the MIT license. See [LICENSE.md](https://github.com/shideneyu/liminality/blob/master/LICENSE.md) for more details.
 
